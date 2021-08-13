@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(background.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110vh;
+}
+.container{
+    max-width: 1300px;
+}
+header{
+    width: auto;
+    overflow: auto;
+    margin-top: 2%
+}
+.logo{
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo h1{
+    color: #fff;
+    margin-left: 20px;
+    font-family:'Maven Pro', sans-serif;
+}
+nav{
+    float: right;
+}
+nav ul{
+    width: auto;
+    overflow: auto;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+}
+nav ul li:hover{
+    border: 1px solid #fff;
+}
+nav ul .active{
+    border: 1px solid #fff;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.text{
+    margin-top: 7%;
+}
+.text h2{
+    color: rgb(238, 203, 203);
+    text-align: center;
+    font-size: 55px;
+    font-family: 'El Messiri', sans-serif;
+}
+.text h4{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'El Messiri', sans-serif;
+    font-family: 'Maven Pro', sans-serif;
+}
+h4{
+    margin-top: -2.6%;
+}
+.bottom{
+    margin-left: 42%;
+    margin-top: 1px;
+}
+button{
+    width: 200px;
+    height: 37px;
+    background-image: none !important;
+    background: transparent;
+    color: #ffffff !important;
+    border: 1px solid #ffffff !important;
+
+}
+.bottom a{
+    color: inherit !important;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+.active, a{
+    font-family: 'Montserrat', sans-serif;
+}
+footer{
+    position:relative;
+    top: 335px;
+    width: 100%;
+    padding-top: 0.3cm;
+    padding-right: 1.3cm;
+    background: rgb(158, 145, 145);
+}
+.main-content{
+    display: flex;
+}
+.main-content .box{
+    flex-basis: 50%;
+    padding: 10px 20px;
+}
+.box h4{
+    font-size: 1.125rem;
+    font-weight: 600;
+    text-decoration: uppercase;
+}
+.box .content{
+    margin: 20px 0 0 0;
+}
+.left .content p{
+    text-align: justify;
+}
+.left .content .social{
+    margin: 20px 0 0 0;
+}
+.left .content .social{
+    padding: 0 2px;
+}
+.left .content .social{
+    height: 40px;
+    width: 60px;
+    text-align:center;
+    font-size: 16px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.left .content .social a span:hover{
+    background:none;
+}
+h3{
+    font-family:'El Messiri', sans-serif;
+    text-decoration: underline;
+}
+.center box
+p, .text, .email{
+    font-family: 'Josefin Sans', sans-serif;
+}
+span, .social{
+    color: black;
+}
+.content p{
+    font-family:'Montserrat', sans-serif;
+}

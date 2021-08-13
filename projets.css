@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.493), rgba(0, 0, 0, 0.493)),url(back3.png);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 110vh;
+}
+.container{
+    max-width: 1300px;
+}
+header{
+    width: auto;
+    overflow: auto;
+    margin-top: 2%
+}
+.logo{
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo h1{
+    color: #fff;
+    margin-left: 20px;
+    font-family:'Maven Pro', sans-serif;
+}
+nav{
+    float: right;
+}
+nav ul{
+    width: auto;
+    overflow: auto;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+}
+nav ul li:hover{
+    border: 1px solid #fff;
+}
+nav ul .active{
+    border: 1px solid #fff;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}
+h2{
+    padding-top: 40px;
+    font-family: 'PT Serif', serif;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    letter-spacing: 0.3cm;
+}
+img{
+    width: 40%;
+    height: 40%;
+    padding-left: 0;
+    padding-top: 0;
+    margin-top: 40px;
+    }
+img{
+    border-color: white;
+}
+p{
+    text-align: center;
+    padding-top: 32px;
+    color: white;
+    font-family: 'Ovo', serif;
+    font-size: 25px;
+}
+.img5, p{
+    padding-bottom: 15px;
+}

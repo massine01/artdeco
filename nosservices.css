@@ -1,0 +1,183 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.555), rgba(0,0,0,0.555)), url(back2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110vh;
+}
+.container{
+    max-width: 1300px;
+}
+header{
+    width: auto;
+    overflow: auto;
+    margin-top: 2%
+}
+.logo{
+    float: left;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo h1{
+    color: #fff;
+    margin-left: 20px;
+    font-family:'Maven Pro', sans-serif;
+}
+nav{
+    float: right;
+}
+nav ul{
+    width: auto;
+    overflow: auto;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px 15px;
+}
+nav ul li:hover{
+    border: 1px solid #fff;
+}
+nav ul .active{
+    border: 1px solid #fff;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}
+img{
+    width: 350px;
+    height: 350px;
+    padding-bottom: 10px;
+}
+.border{
+    border: 10px 10px 10px 10px;
+    border-color: black;
+}
+h2{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 24px;
+    color: white;
+    padding-top: 60px;
+    padding-left: 90px;
+}
+p1{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 1cm;
+}
+p2{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p3{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 8px;
+}
+p4{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p5{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p6{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p7{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p8{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p9{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p10{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p11{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p12{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p13{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p14{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p15{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p16{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p17{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p18{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 10px;
+}
+p19{
+    font-family: 'El Messiri', sans-serif;
+    font-size: 20px;
+    color: white;
+    padding-left: 420px;
+}
